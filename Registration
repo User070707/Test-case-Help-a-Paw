@@ -1,0 +1,20 @@
+Title 
+New user registration with valid "Password"
+
+Suite
+Registration
+
+Priority
+High
+
+Behavior
+Positive
+
+Pre-conditions
+Open "Help a Paw" mobile app
+Go to "Help a Pow" menu
+
+Test Case Steps                                         Expected result
+Enter valid "Password"
+Enter valid "Confirm Password"
+Tap on "Register" button                                The user is successfully registered
