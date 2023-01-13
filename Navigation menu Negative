@@ -1,0 +1,21 @@
+Title 
+Veterinary Clinic  "Search with valid address" on google maps
+
+Suite
+Navigation menu 
+
+Priority
+Medium
+
+Behavior
+Negative
+
+Pre-conditions
+Open "Help a Paw" mobile app
+Tap on "Vet Clinic"
+Tap on "Open in Google Maps" button
+
+Test Case Steps                                         Expected result
+Tap on text field
+Enter valid address  
+Tap on search                                           But the search result is an empty field 
