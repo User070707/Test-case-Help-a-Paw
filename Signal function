@@ -1,0 +1,20 @@
+Title 
+Sending a signal  select an option "Lost or Found"
+
+Suite
+Signal function 
+
+Priority
+High
+
+Behavior
+Positive
+
+Pre-conditions
+Open "Help a Paw" mobile app
+Тhe user is registered
+
+Test Case Steps                                         Expected result
+Locate the place where you found the animal
+Select an option "Lost or Found"
+Tap on "Send"                                           Тhe signal was sent successfully  
