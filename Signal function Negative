@@ -1,0 +1,21 @@
+Title 
+Sending a signal without description
+
+Suite
+Signal function 
+
+Priority
+High
+
+Behavior
+Negative
+
+Pre-conditions
+Open "Help a Paw" mobile app
+Тhe user is registered
+
+Test Case Steps                                         Expected result
+Tap on sending a signal button
+Enter valid phone
+Enter photo
+Tap on Send                                             Error message
