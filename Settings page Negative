@@ -1,0 +1,19 @@
+Title 
+Set parameters with "Radius"  3 km
+
+Suite
+Settings page 
+
+Priority
+High
+
+Behavior
+Negative
+
+Pre-conditions
+Open "Help a Paw" mobile app
+Go to "Help a Pow" menu
+
+Test Case Steps                                                    
+Tap on Settings
+Set from "Radius" butt        "3 kilometer"        
