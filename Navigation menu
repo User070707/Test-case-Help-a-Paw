@@ -1,0 +1,18 @@
+Title 
+Veterinary Clinic "Navigate me"
+
+Suite
+Navigation menu
+
+Priority
+High
+
+Behavior
+Positive
+
+Pre-conditions
+Open "Help a Paw" mobile app
+
+Test Case Steps                                         Expected result
+Tap on "Vet Clinic"
+Tap on "Navigate me" button                             The address of "Veterinary clinic" is loaded in google maps and navigates successfully
